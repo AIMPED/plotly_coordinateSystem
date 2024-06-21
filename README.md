@@ -13,3 +13,5 @@ example usage:
     fig = go.Figure(csys_1.traces + csys_2.traces )
     fig.show()
 ```
+Output:
+![a picture of two coordinate systems](./csys.png)
